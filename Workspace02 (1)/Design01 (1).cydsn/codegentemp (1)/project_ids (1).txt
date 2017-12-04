@@ -1,0 +1,6 @@
+C:\Users\gopik\OneDrive\Documents\PSoC Creator\Workspace02\Design01.cydsn\Design01.cyprj|8e72af54-82d9-45d9-bf43-708421237540
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|01fe8f06-6d4a-42ed-b7fe-ff32a8fe56b9
+C:\Users\gopik\OneDrive\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|4debb7fc-afc8-48a3-8189-47c3a8d30d0b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|77383c99-b90b-40eb-99c1-9299b10db1d9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|0deed52a-3708-4774-a57d-823c9df3833a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e0cd6277-4201-48a5-9217-e05e689b2d90
